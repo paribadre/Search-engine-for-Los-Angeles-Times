@@ -1,0 +1,35 @@
+News site crawled: LATimes news
+
+Fetch Statistics
+================
+# fetches attempted: 19999
+# fetches succeeded: 19195
+# fetches failed or aborted: 703
+
+Outgoing URLs
+==============
+Total URLs extracted: 1580610
+# unique URLs extracted: 269196
+# unique URLs within News Site: 181070
+# unique URLs outside News Site: 88126
+
+Status Codes:
+=============
+404 Not Found:: 81
+502 null: 1
+200 OK: 19296
+301 Moved Permanently: 605
+302 Found: 16
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 7
+10KB ~ <100KB: 401
+100KB ~ <1MB: 18771
+>= 1MB: 16
+
+Content Types:
+==============
+text/html: 19195
+
